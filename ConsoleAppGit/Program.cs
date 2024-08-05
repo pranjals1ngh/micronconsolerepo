@@ -9,3 +9,8 @@ class Program
         Console.WriteLine("third Change");
     }
 }
+
+class Book
+{
+    public string Name { set; get; }
+}
