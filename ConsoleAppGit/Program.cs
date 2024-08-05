@@ -6,5 +6,6 @@ class Program
     {
         Console.WriteLine("First Commit");
         Console.WriteLine("Second Change");
+        Console.WriteLine("third Change");
     }
 }
